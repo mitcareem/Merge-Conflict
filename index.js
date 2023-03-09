@@ -1,11 +1,7 @@
-console.log("index.js");
-var a = 10;
+function index(index) {
+    return index;
+}
 
-const name = (name) => {
-    return name;
-};
+const getIndex = index(2);
 
-
-const person = (name) => {
-    return name;
-};
+console.log(getIndex);
