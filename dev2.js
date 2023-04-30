@@ -1,1 +1,1 @@
-consolee.log("dev2");
+console.log("dev2");
