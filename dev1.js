@@ -1,1 +1,1 @@
-console.logg("dev1");
+console.log("dev1");
